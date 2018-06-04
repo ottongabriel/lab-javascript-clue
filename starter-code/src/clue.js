@@ -121,4 +121,3 @@ function revealMistery(envelope){
 }
 
 var misteryEnvelope = pickMistery();
-
